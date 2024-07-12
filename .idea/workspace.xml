@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b46ccad-9305-402f-8c3b-b748a355cb40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CollectionsJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/OperacoesBasicas/CarrinhoDeCompras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/OperacoesBasicas/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/OperacoesBasicas/ListaTarefa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/OperacoesBasicas/Tarefa.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2gN5wmApZKcLuhdAAljqkzRKiU7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CarrinhoDeCompras.executor": "Run",
+    "Application.ListaTarefa.executor": "Run",
+    "Application.Livro.executor": "Run",
+    "Application.box.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sebas/OneDrive/Desktop/Introducao-a-Ciencia-da-Computacao-com-Python-Parte-1-Universidade-de-Sao-Paulo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CarrinhoDeCompras">
+    <configuration name="CarrinhoDeCompras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List.OperacoesBasicas.CarrinhoDeCompras" />
+      <module name="CollectionsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="List.OperacoesBasicas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListaTarefa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List.OperacoesBasicas.ListaTarefa" />
+      <module name="CollectionsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="List.OperacoesBasicas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CarrinhoDeCompras" />
+        <item itemvalue="Application.ListaTarefa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b46ccad-9305-402f-8c3b-b748a355cb40" name="Changes" comment="" />
+      <created>1715525439149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715525439149</updated>
+      <workItem from="1715525440224" duration="2080000" />
+      <workItem from="1715640137835" duration="22000" />
+      <workItem from="1715642270130" duration="1021000" />
+      <workItem from="1715719837933" duration="1427000" />
+      <workItem from="1715946329586" duration="235000" />
+      <workItem from="1716058440891" duration="3693000" />
+      <workItem from="1717699959249" duration="82000" />
+      <workItem from="1720778921935" duration="3145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
