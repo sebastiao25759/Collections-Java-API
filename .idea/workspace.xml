@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b46ccad-9305-402f-8c3b-b748a355cb40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CollectionsJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List/OperacoesBasicas/CarrinhoDeCompras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List/OperacoesBasicas/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List/OperacoesBasicas/ListaTarefa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List/OperacoesBasicas/Tarefa.java" afterDir="false" />
-    </list>
+    <list default="true" id="5b46ccad-9305-402f-8c3b-b748a355cb40" name="Changes" comment="add" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/sebas/OneDrive/Desktop/Introducao-a-Ciencia-da-Computacao-com-Python-Parte-1-Universidade-de-Sao-Paulo",
+    "last_opened_file_path": "C:/Users/sebas/OneDrive/Desktop/Collections Java API",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -121,12 +110,25 @@
       <workItem from="1715946329586" duration="235000" />
       <workItem from="1716058440891" duration="3693000" />
       <workItem from="1717699959249" duration="82000" />
-      <workItem from="1720778921935" duration="3145000" />
+      <workItem from="1720778921935" duration="3418000" />
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <option name="closed" value="true" />
+      <created>1720782214969</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720782214969</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
