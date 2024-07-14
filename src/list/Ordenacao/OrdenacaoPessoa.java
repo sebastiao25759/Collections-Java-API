@@ -1,8 +1,7 @@
-package List.Ordenacao;
+package list.Ordenacao;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 public class OrdenacaoPessoa {
